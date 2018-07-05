@@ -1,0 +1,1 @@
+Projetos desenvolvidos na disciplina MAC0110 no ano de 2018 usando a linguagem Python. 
