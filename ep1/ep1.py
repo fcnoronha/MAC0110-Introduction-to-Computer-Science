@@ -1,30 +1,3 @@
-"""
-  AO PREENCHER ESSE CABEÇALHO COM O MEU NOME E O MEU NÚMERO USP, 
-  DECLARO QUE SOU O ÚNICO AUTOR E RESPONSÁVEL POR ESSE PROGRAMA. 
-  TODAS AS PARTES ORIGINAIS DESSE EXERCÍCIO PROGRAMA (EP) FORAM 
-  DESENVOLVIDAS E IMPLEMENTADAS POR MIM SEGUINDO AS INSTRUÇÕES
-  DESSE EP E QUE PORTANTO NÃO CONSTITUEM DESONESTIDADE ACADÊMICA
-  OU PLÁGIO.  
-  DECLARO TAMBÉM QUE SOU RESPONSÁVEL POR TODAS AS CÓPIAS
-  DESSE PROGRAMA E QUE EU NÃO DISTRIBUI OU FACILITEI A
-  SUA DISTRIBUIÇÃO. ESTOU CIENTE QUE OS CASOS DE PLÁGIO E
-  DESONESTIDADE ACADÊMICA SERÃO TRATADOS SEGUNDO OS CRITÉRIOS
-  DIVULGADOS NA PÁGINA DA DISCIPLINA.
-  ENTENDO QUE EPS SEM ASSINATURA NÃO SERÃO CORRIGIDOS E,
-  AINDA ASSIM, PODERÃO SER PUNIDOS POR DESONESTIDADE ACADÊMICA.
-
-  Nome : Felipe Castro de Noronha	
-  NUSP : 10737032
-  Turma: 
-  Prof.: Marcelo Queiroz
-
-  Referências: Com exceção das rotinas fornecidas no enunciado
-  e em sala de aula, caso você tenha utilizado alguma referência,
-  liste-as abaixo para que o seu programa não seja considerado
-  plágio ou irregular.
-  
-  """
-
 from random import randint
 
 def distribuicao(N): #define um valor aleatorio para cada casa decimal de 10^(n-1), ou seja, os pesos
